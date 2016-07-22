@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  card_number: MyString
+  order_number: MyString
+  status: false
+  price: 1.5
+
+two:
+  name: MyString
+  email: MyString
+  card_number: MyString
+  order_number: MyString
+  status: false
+  price: 1.5

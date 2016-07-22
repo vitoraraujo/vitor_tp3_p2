@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Peso:</strong>
+  <%= @plate.peso %>
+</p>
+
+<p>
+  <strong>Order number:</strong>
+  <%= @plate.order_number %>
+</p>
+
+<%= link_to 'Edit', edit_plate_path(@plate) %> |
+<%= link_to 'Back', clients_path %>
